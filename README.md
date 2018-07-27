@@ -1,4 +1,6 @@
 # SearchEngineCommandLine
+This is no longer a command line based program. Ignore title. 
+
 Run the program with python3. Use the GUI to search for something on your choice of search engine. 
 
 Requires PyQt5 to be installed.
